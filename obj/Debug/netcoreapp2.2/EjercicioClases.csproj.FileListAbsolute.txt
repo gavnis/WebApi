@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\bin\Debug\netcoreapp2.2\EjercicioClases.deps.json
+C:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\bin\Debug\netcoreapp2.2\EjercicioClases.runtimeconfig.json
+C:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\bin\Debug\netcoreapp2.2\EjercicioClases.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\bin\Debug\netcoreapp2.2\EjercicioClases.dll
+c:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\bin\Debug\netcoreapp2.2\EjercicioClases.pdb
+c:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\obj\Debug\netcoreapp2.2\EjercicioClases.csprojAssemblyReference.cache
+c:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\obj\Debug\netcoreapp2.2\EjercicioClases.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\obj\Debug\netcoreapp2.2\EjercicioClases.RazorAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\obj\Debug\netcoreapp2.2\EjercicioClases.RazorAssemblyInfo.cs
+c:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\obj\Debug\netcoreapp2.2\EjercicioClases.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\obj\Debug\netcoreapp2.2\EjercicioClases.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\obj\Debug\netcoreapp2.2\EjercicioClases.RazorTargetAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\obj\Debug\netcoreapp2.2\EjercicioClases.dll
+c:\Users\Administrator\Desktop\Fernando Niz\Practica\EjercicioClases\obj\Debug\netcoreapp2.2\EjercicioClases.pdb
